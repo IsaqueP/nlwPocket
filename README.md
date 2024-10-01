@@ -28,6 +28,34 @@ O app web foi feito para ajudar o usuário a organizar seus hábitos e metas que
 - DOCKER
 - DRIZZLE
 
+img60
+## 🚀 Como executar
+
+Clone o projeto e acesse a pasta do mesmo.
+
+```bash
+$ git clone https://github.com/IsaqueP/nlwPocket
+$ cd nlwPocket
+```
+
+Para iniciar o banco de dados, siga os passos abaixo:
+```bash
+# Instalar as dependências
+$ npm i
+
+# Iniciar o projeto
+$ npm run dev
+```
+Para iniciar o front end, siga os passos abaixo:
+```bash
+# Instalar as dependências
+$ npm i
+
+# Iniciar o projeto
+$ npm run dev
+```
+O app estará disponível no seu browser pelo endereço http://localhost:5173.
+
 
 # Autor
 
