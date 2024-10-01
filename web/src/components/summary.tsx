@@ -1,7 +1,6 @@
 import { Button } from "./ui/button";
 import { DialogTrigger } from "./ui/dialog";
 import { CheckCircle, Plus } from 'lucide-react';
-import InOrbitIcon from '../assets/in-orbit-logo.svg'
 import { Progress, ProgressIndicator } from "./ui/progress-bar";
 import { Separator } from "./ui/separator";
 import { getSummary } from "../http/get-summary";
@@ -34,7 +33,6 @@ export function Summary(){
       <div className="flex items-start justify-between">
 
         <div className="flex items-center gap-3">
-        <img src={InOrbitIcon} alt="in.orbit" />
           <span className="text-lg font-semibold capitalize">{firstDayOfWeek} - {lastDayOfWeek}</span>
         </div>
 
