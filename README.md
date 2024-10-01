@@ -28,7 +28,7 @@ O app web foi feito para ajudar o usuário a organizar seus hábitos e metas que
 - DOCKER
 - DRIZZLE
 
-img60
+
 ## 🚀 Como executar
 
 Clone o projeto e acesse a pasta do mesmo.
